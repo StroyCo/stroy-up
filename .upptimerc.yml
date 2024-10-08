@@ -11,8 +11,8 @@ sites:
     url: https://jellyseerr.stroyco.eu
   - name: SeRA
     url: https://develop-sera.stroyco.eu/
-  - name: GoofyChat
-    url: https://goofychat.stroyco.eu/
+  #- name: GoofyChat
+    #url: https://goofychat.stroyco.eu/
   - name: RandomGraill
     url: https://randomgraill.web.app
 
