@@ -5,6 +5,16 @@ repo: stroy-up # The name of this repository
 sites:
   - name: Portfolio
     url: https://portfolio.stroyco.eu
+  - name: Jellyfin
+    url: https://jelly.stroyco.eu/
+  - name: Jellyseer
+    url: https://jellyseerr.stroyco.eu
+  - name: SeRA
+    url: https://develop-sera.stroyco.eu/
+  - name: GoofyChat
+    url: https://goofychat.stroyco.eu/
+  - name: RandomGraill
+    url: https://randomgraill.web.app
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
