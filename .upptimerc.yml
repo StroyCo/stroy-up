@@ -6,13 +6,13 @@ sites:
   - name: Portfolio
     url: https://portfolio.stroyco.eu
   - name: Jellyfin
-    url: https://jelly.stroyco.eu/
+    url: https://jelly.stroyco.eu
   - name: Jellyseer
     url: https://jellyseerr.stroyco.eu
-  - name: SeRA
-    url: https://develop-sera.stroyco.eu/
-  #- name: GoofyChat
-    #url: https://goofychat.stroyco.eu/
+  #- name: SeRA
+  #  url: https://develop-sera.stroyco.eu
+  - name: StroyGetter
+    url: https://stroygetter.stroyco.eu
   - name: RandomGraill
     url: https://randomgraill.web.app
 
