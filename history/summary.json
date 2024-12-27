@@ -1,25 +1,5 @@
 [
   {
-    "name": "Portfolio",
-    "url": "https://portfolio.stroyco.eu",
-    "icon": "https://icons.duckduckgo.com/ip3/portfolio.stroyco.eu.ico",
-    "slug": "portfolio",
-    "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.98%",
-    "time": 535,
-    "timeDay": 446,
-    "timeWeek": 413,
-    "timeMonth": 576,
-    "timeYear": 535,
-    "dailyMinutesDown": {
-      "2024-11-26": 18
-    }
-  },
-  {
     "name": "Jellyfin",
     "url": "https://jelly.stroyco.eu",
     "icon": "https://icons.duckduckgo.com/ip3/jelly.stroyco.eu.ico",
@@ -30,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 612,
-    "timeDay": 526,
-    "timeWeek": 465,
-    "timeMonth": 616,
-    "timeYear": 612,
+    "time": 611,
+    "timeDay": 519,
+    "timeWeek": 470,
+    "timeMonth": 613,
+    "timeYear": 611,
     "dailyMinutesDown": {
       "2024-11-26": 18
     }
@@ -50,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.90%",
-    "time": 921,
-    "timeDay": 886,
-    "timeWeek": 771,
-    "timeMonth": 851,
-    "timeYear": 921,
+    "time": 919,
+    "timeDay": 821,
+    "timeWeek": 762,
+    "timeMonth": 847,
+    "timeYear": 919,
     "dailyMinutesDown": {
       "2024-11-26": 18,
       "2024-11-23": 71,
@@ -72,11 +52,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 567,
-    "timeDay": 567,
-    "timeWeek": 567,
-    "timeMonth": 567,
-    "timeYear": 567,
+    "time": 482,
+    "timeDay": 482,
+    "timeWeek": 482,
+    "timeMonth": 482,
+    "timeYear": 482,
     "dailyMinutesDown": {}
   },
   {
@@ -91,9 +71,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 122,
-    "timeDay": 72,
-    "timeWeek": 93,
-    "timeMonth": 99,
+    "timeDay": 101,
+    "timeWeek": 100,
+    "timeMonth": 101,
     "timeYear": 122,
     "dailyMinutesDown": {}
   }
