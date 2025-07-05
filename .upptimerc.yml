@@ -13,8 +13,8 @@ sites:
   #  url: https://develop-sera.stroyco.eu
   - name: StroyGetter
     url: https://stroygetter.stroyco.eu
-  - name: RandomGraill
-    url: https://randomgraill.web.app
+  - name: StroyBot
+    url: https://stroybot.stroyco.eu
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
