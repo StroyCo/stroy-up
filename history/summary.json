@@ -11,9 +11,9 @@
     "uptimeMonth": "99.97%",
     "uptimeYear": "99.88%",
     "time": 933,
-    "timeDay": 708,
-    "timeWeek": 824,
-    "timeMonth": 1302,
+    "timeDay": 675,
+    "timeWeek": 818,
+    "timeMonth": 1307,
     "timeYear": 933,
     "dailyMinutesDown": {
       "2025-08-19": 15,
@@ -42,9 +42,9 @@
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.85%",
     "time": 993,
-    "timeDay": 1026,
-    "timeWeek": 993,
-    "timeMonth": 986,
+    "timeDay": 900,
+    "timeWeek": 981,
+    "timeMonth": 980,
     "timeYear": 993,
     "dailyMinutesDown": {
       "2025-08-26": 41,
@@ -74,9 +74,9 @@
     "uptimeMonth": "99.96%",
     "uptimeYear": "98.80%",
     "time": 724,
-    "timeDay": 574,
-    "timeWeek": 501,
-    "timeMonth": 541,
+    "timeDay": 811,
+    "timeWeek": 530,
+    "timeMonth": 553,
     "timeYear": 724,
     "dailyMinutesDown": {
       "2025-08-25": 16,
@@ -106,11 +106,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 735,
-    "timeDay": 871,
-    "timeWeek": 600,
-    "timeMonth": 571,
-    "timeYear": 735,
+    "time": 733,
+    "timeDay": 550,
+    "timeWeek": 592,
+    "timeMonth": 576,
+    "timeYear": 733,
     "dailyMinutesDown": {
       "2025-07-30": 26
     }
@@ -126,11 +126,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 540,
-    "timeDay": 648,
-    "timeWeek": 540,
-    "timeMonth": 540,
-    "timeYear": 540,
+    "time": 499,
+    "timeDay": 418,
+    "timeWeek": 499,
+    "timeMonth": 499,
+    "timeYear": 499,
     "dailyMinutesDown": {}
   },
   {
@@ -139,18 +139,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/dash.goofykhp.fr.ico",
     "slug": "goofy-khp-website",
     "status": "up",
-    "uptime": "99.56%",
-    "uptimeDay": "99.52%",
-    "uptimeWeek": "99.56%",
-    "uptimeMonth": "99.56%",
-    "uptimeYear": "99.56%",
-    "time": 739,
-    "timeDay": 784,
-    "timeWeek": 739,
-    "timeMonth": 739,
-    "timeYear": 739,
-    "dailyMinutesDown": {
-      "2025-09-16": 7
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 724,
+    "timeDay": 665,
+    "timeWeek": 724,
+    "timeMonth": 724,
+    "timeYear": 724,
+    "dailyMinutesDown": {}
   }
 ]
