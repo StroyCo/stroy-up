@@ -138,17 +138,19 @@
     "url": "https://dash.goofykhp.fr/",
     "icon": "https://icons.duckduckgo.com/ip3/dash.goofykhp.fr.ico",
     "slug": "goofy-khp-website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 725,
-    "timeDay": 422,
-    "timeWeek": 717,
-    "timeMonth": 725,
-    "timeYear": 725,
-    "dailyMinutesDown": {}
+    "time": 696,
+    "timeDay": 400,
+    "timeWeek": 675,
+    "timeMonth": 696,
+    "timeYear": 696,
+    "dailyMinutesDown": {
+      "2025-09-24": 0
+    }
   }
 ]
