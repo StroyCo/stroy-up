@@ -120,10 +120,10 @@
     "url": "https://app.goofykhp.fr/",
     "icon": "https://icons.duckduckgo.com/ip3/app.goofykhp.fr.ico",
     "slug": "goofy-khp-application",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 572,
@@ -131,16 +131,18 @@
     "timeWeek": 636,
     "timeMonth": 572,
     "timeYear": 572,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-10-01": 1
+    }
   },
   {
     "name": "GoofyKHP - Website",
     "url": "https://dash.goofykhp.fr/",
     "icon": "https://icons.duckduckgo.com/ip3/dash.goofykhp.fr.ico",
     "slug": "goofy-khp-website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -149,6 +151,8 @@
     "timeWeek": 600,
     "timeMonth": 669,
     "timeYear": 669,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-10-01": 0
+    }
   }
 ]
