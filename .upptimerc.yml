@@ -1,32 +1,36 @@
 # Change these first
 owner: StroyCo # Your GitHub organization or username, where this repository lives
 repo: stroy-up # The name of this repository
-
 sites:
-  #- name: StroyBot
-  #  url: https://stroybot.stroyco.eu
+  - name: StroyBot
+    url: https://stroybot.stroyco.eu
   - name: IFA x HONOR - Contest
     url: https://ifa.honor.events
   - name: Orange x HONOR - Contest
     url: https://orange-contest.honor.events
   - name: StroyBot HONOR Version
     url: https://stroybot-hnr.stroyco.eu
-  
 
 status-website:
-  # Add your custom domain name, or remove the `cname` line if you don't have a domain
-  # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  #cname: demo.upptime.js.org
+  # Add your custom domain name, or remove the cname line if you don't have a domain
+  # Uncomment the baseUrl line if you don't have a custom domain and add your repo name there
+  #cname: [demo.upptime.js.org](http://demo.upptime.js.org)
   baseUrl: /stroy-up
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: StroyUp
-  #introTitle: ""
-  #introMessage: ""
   navbar:
     - title: Status
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
+
+notifications:
+  - type: discord
+    webhookUrl: $DISCORD_WEBHOOK
+
+env:
+  NOTIFICATIONS_DOWN_MESSAGE: "$EMOJI $SITE_NAME ($SITE_URL) is **$STATUS** | Code: `$RESPONSE_CODE` → $ISSUE_URL <@&1499798050305085501>"
+  NOTIFICATIONS_UP_MESSAGE: "$EMOJI $SITE_NAME ($SITE_URL) $STATUS → $ISSUE_URL <@&1499798050305085501>"
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
