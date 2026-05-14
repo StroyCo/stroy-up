@@ -11,7 +11,7 @@ sites:
   - name: Orange x HONOR - Contest
     url: https://orange-contest.honor.events
   - name: StroyBot HONOR Version
-    url: https://stroybot-hnr.stroyco.eu
+    url: https://stroybot.honor.events
 
 status-website:
   # Add your custom domain name, or remove the cname line if you don't have a domain
