@@ -1,7 +1,7 @@
 url: https://stroybot.honor.events
-status: up
-code: 200
-responseTime: 693
-lastUpdated: 2026-05-26T00:06:40.019Z
+status: down
+code: 504
+responseTime: 30675
+lastUpdated: 2026-05-26T10:05:53.872Z
 startTime: 2026-05-01T15:26:06.056Z
 generator: Upptime <https://github.com/upptime/upptime>
