@@ -25,17 +25,17 @@
     "url": "https://stroygetter.fr",
     "icon": "https://icons.duckduckgo.com/ip3/stroygetter.fr.ico",
     "slug": "stroy-getter",
-    "status": "down",
-    "uptime": "92.49%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "94.70%",
-    "uptimeYear": "97.16%",
-    "time": 940,
-    "timeDay": 2052,
-    "timeWeek": 2494,
-    "timeMonth": 2141,
-    "timeYear": 1114,
+    "status": "up",
+    "uptime": "92.39%",
+    "uptimeDay": "92.86%",
+    "uptimeWeek": "98.98%",
+    "uptimeMonth": "94.46%",
+    "uptimeYear": "97.06%",
+    "time": 944,
+    "timeDay": 1894,
+    "timeWeek": 2392,
+    "timeMonth": 2124,
+    "timeYear": 1117,
     "dailyMinutesDown": {
       "2025-07-30": 27,
       "2025-08-25": 16,
@@ -45,7 +45,7 @@
       "2026-06-12": 1413,
       "2026-06-19": 27,
       "2026-06-18": 882,
-      "2026-07-07": 0
+      "2026-07-07": 103
     }
   },
   {
