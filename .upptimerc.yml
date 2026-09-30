@@ -6,10 +6,6 @@ sites:
     url: https://stroybot.stroyco.eu
   - name: StroyGetter
     url: https://stroygetter.fr
-  - name: IFA x HONOR - Contest
-    url: https://ifa.honor.events
-  - name: Orange x HONOR - Contest
-    url: https://orange-contest.honor.events
   - name: StroyBot HONOR Version
     url: https://stroybot.honor.events
 
