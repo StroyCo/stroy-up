@@ -4,19 +4,20 @@
     "url": "https://stroybot.stroyco.eu",
     "icon": "https://icons.duckduckgo.com/ip3/stroybot.stroyco.eu.ico",
     "slug": "stroy-bot",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 2689,
-    "timeDay": 1042,
-    "timeWeek": 1057,
-    "timeMonth": 1066,
-    "timeYear": 3610,
+    "time": 2687,
+    "timeDay": 1582,
+    "timeWeek": 1190,
+    "timeMonth": 1103,
+    "timeYear": 3603,
     "dailyMinutesDown": {
-      "2026-05-01": 19
+      "2026-05-01": 19,
+      "2026-11-23": 0
     }
   },
   {
@@ -24,17 +25,17 @@
     "url": "https://stroygetter.fr",
     "icon": "https://icons.duckduckgo.com/ip3/stroygetter.fr.ico",
     "slug": "stroy-getter",
-    "status": "up",
-    "uptime": "97.50%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "97.52%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.05%",
-    "time": 1075,
-    "timeDay": 1506,
-    "timeWeek": 1912,
-    "timeMonth": 1486,
-    "timeYear": 1424,
+    "time": 1082,
+    "timeDay": 2365,
+    "timeWeek": 2076,
+    "timeMonth": 1559,
+    "timeYear": 1433,
     "dailyMinutesDown": {
       "2026-05-01": 42,
       "2026-05-12": 179,
@@ -42,7 +43,8 @@
       "2026-06-12": 1413,
       "2026-06-19": 27,
       "2026-06-18": 882,
-      "2026-07-07": 103
+      "2026-07-07": 103,
+      "2026-11-23": 0
     }
   },
   {
@@ -59,7 +61,7 @@
     "time": 1356,
     "timeDay": 1108,
     "timeWeek": 1186,
-    "timeMonth": 2461,
+    "timeMonth": 2520,
     "timeYear": 1356,
     "dailyMinutesDown": {
       "2026-05-12": 179,
